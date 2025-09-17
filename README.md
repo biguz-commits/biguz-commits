@@ -33,8 +33,7 @@ Recommendation system based on **BERT, LLMs, LangGraph, and ChromaDB**, applied 
 🔹 [**Solana Price Prediction (LSTM)**](https://github.com/biguz-commits/Solana-SOL-Price-Prediction-Using-LSTM)  
 Deep Learning model with **LSTM networks** for predicting Solana (SOL) cryptocurrency price trends.  
 
-🔹 [**LLM Agent Orchestration**](https://github.com/biguz-commits) *(coming soon)*  
-FastAPI + LangChain project for orchestrating **AI agents** with tool integration, memory, and SQL access.  
+🔹 Web scraping agent, an agent that the scraped cotnent of a web page. 
 
 ---
 
