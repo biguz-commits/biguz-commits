@@ -14,13 +14,22 @@ At **Hekanize** I build **LLM agents**, **recommendation engines**, and **micros
 
 ---
 
-## 🧰 Tech Stack (short & sharp)
+## ⚡ Tech Stack  
 
-* **AI/ML**: LLMs, Agentic Workflows, RAG, Transfomers
-* **Python**: FastAPI, LangChain/LangGraph, CrewAI, PyTorch/TF, Pandas
-* **Backend**: PHP (Laravel), SQL, REST, Redis, GraphQL
-* **Cloud/DevOps**: AWS (Bedrock|S3), Docker, GitHub Actions
-* **Data**: pgvector, ChromaDB, Matplotlib/Plotly
+**🧠 AI / ML**  
+![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-5A5A5A?logo=graph&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?logo=robotframework&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-2E8B57?logo=knowledgebase&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD700?logo=huggingface&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+**🐍 Languages & Python Ecosystem**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+
+**🧩 Backend**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST-005571?logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+**☁️ Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+**🗄️ Data & Storage**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-0064A5?logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?logo=chromadb&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-323330?logo=python&logoColor=white)
 
 ---
 
@@ -106,14 +115,7 @@ Full pipeline for **product recommendations** using **Amazon Reviews 2023**: emb
 
 > Tip: I keep code **modular** (tools/agents/services) so each piece is easy to reuse across projects.
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biguz-commits\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biguz-commits\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🤝 Let’s Collaborate
 
@@ -129,4 +131,13 @@ Ping me on [LinkedIn](https://www.linkedin.com/in/tommaso-biganzoli-055b24244) o
 * I value **clear interfaces**, **observability**, and **tests** over cleverness
 
 ---
+
+## 🎧 When I Debug, I Listen To...
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="28" alt="Spotify Logo" />
+  <b> Peggy Gou </b>
+</a>
+
+
 
