@@ -126,9 +126,9 @@ Ping me on [LinkedIn](https://www.linkedin.com/in/tommaso-biganzoli-055b24244) o
 
 ### Notes for Reviewers / Recruiters
 
-* Strong bias toward **production-ready** code and **evaluation-first** mindset
-* Comfortable owning **end-to-end**: data, models, API, infra, and CI
-* I value **clear interfaces**, **observability**, and **tests** over cleverness
+* Strong bias toward **production-ready** code and **evaluation-first** mindset.
+* Comfortable owning **end-to-end**: data, models, API, infra, and CI.
+* I value **clear interfaces**, **observability**, and **tests** over cleverness.
 
 ---
 
